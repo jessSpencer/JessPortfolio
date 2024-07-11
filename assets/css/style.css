@@ -1078,6 +1078,10 @@ section {
   color: #728394;
 }
 
+.contact .info .address {
+  margin-top: 40px;
+}
+
 .contact .info .email,
 .contact .info .phone {
   margin-top: 40px;
